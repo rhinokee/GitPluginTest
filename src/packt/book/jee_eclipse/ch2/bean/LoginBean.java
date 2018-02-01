@@ -9,7 +9,6 @@ public class LoginBean {
 	private String password;
 	private String errorMsg;
 	
-	//getUserName
 	public String getUserName() {
 		return userName;
 	}
