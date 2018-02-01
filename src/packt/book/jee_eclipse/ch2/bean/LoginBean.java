@@ -10,6 +10,7 @@ public class LoginBean {
 	private String errorMsg;
 	
 	public String getUserName() {
+		System.out.println("Hello Git, from branch bug#1234");
 		return userName;
 	}
 	
